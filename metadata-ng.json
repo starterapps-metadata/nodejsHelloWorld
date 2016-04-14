@@ -11,14 +11,14 @@
     "system_tags": ["ibm_created"],
     "runtime_id": "763dcb4a-8642-4676-ae17-ca5bd032ad9e",
     "categories": ["runtime"],
-	"defaultMemory": 256,
+    "defaultMemory": 256,
     "metadata": {
         "termsUrl": "https://www.ibm.com/software/sla/sladb.nsf/sla/bm-6622-01",
         "bssRuntimeName": "sdk-for-nodejs"
     }, 
     "source": {
         "scmType": "git",
-        "url": ".git",
+        "url": "https://github.com/starterapps-metadata/nodejsHelloWorld.git",
         "appPath": "app"
     },
 	"docURL": "/#runtimes/nodejs/index.html",
