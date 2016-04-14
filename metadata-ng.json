@@ -1,0 +1,66 @@
+{
+    "name": "SDK for Node.js\u2122",
+    "services": [],
+    "description": "Develop, deploy, and scale server-side JavaScript\u00AE apps with ease. The IBM SDK for Node.js\u2122 provides enhanced performance, security, and serviceability.",
+    "type": "web",
+    "version": "3.x",
+    "smallIcon": "i_js_24.png",
+    "icon": "i_js_32.png",
+    "largeIcon": "i_js_50.png",
+    "featuredIcon": "i_js_64.png",
+    "system_tags": ["ibm_created"],
+    "runtime_id": "763dcb4a-8642-4676-ae17-ca5bd032ad9e",
+    "categories": ["runtime"],
+	"defaultMemory": 256,
+    "metadata": {
+        "termsUrl": "https://www.ibm.com/software/sla/sladb.nsf/sla/bm-6622-01",
+        "bssRuntimeName": "sdk-for-nodejs"
+    }, 
+    "source": {
+        "scmType": "git",
+        "url": ".git",
+        "appPath": "app"
+    },
+	"docURL": "/#runtimes/nodejs/index.html",
+	"extra" : {
+		"i18n" : {
+			"de" : {
+				"name": "SDK for Node.js\u2122",
+				"description": "Serverseitige JavaScript\u00AE-Anwendungen einfach und bequem entwickeln, implementieren und skalieren. IBM SDK for Node.js\u2122 bietet erweiterte Leistung, Sicherheit und Funktionsfähigkeit."
+			},
+			"es" : {
+				"name": "SDK for Node.js\u2122",
+				"description": "Desarrolle, despliegue y escale fácilmente apps JavaScript\u00AE del lado del servidor. IBM SDK for Node.js\u2122 ofrece mejoras en el rendimiento, la seguridad y el nivel de servicio. "
+			},
+			"fr" : {
+				"name": "SDK for Node.js\u2122",
+				"description": "Développez, déployez et mettez à l'échelle des applications JavaScript\u00AE côté serveur facilement. IBM SDK for Node.js\u2122 propose des performances, une sécurité et une serviçabilité améliorées. "
+			},
+			"it" : {
+				"name": "SDK for Node.js\u2122",
+				"description": "Sviluppare, distribuire e ridimensionare le applicazioni JavaScript\u00AE lato server con facilità. IBM SDK for Node.js\u2122 fornisce prestazioni migliorate, sicurezza e facilità di manutenzione."
+			},
+			"ja" : {
+				"name": "SDK for Node.js\u2122",
+				"description": "サーバー・サイド JavaScript\u00AE アプリを簡単に開発、デプロイ、および拡張できます。 IBM SDK for Node.js\u2122 は、優れたパフォーマンス、セキュリティー、および保守性を提供します。"
+			},
+			"pt-BR" : {
+				"name": "SDK for Node.js\u2122",
+				"description": "Desenvolva, implemente e escale apps JavaScript\u00AE do lado do servidor com facilidade. O IBM SDK for Node.js\u2122 fornece desempenho, segurança e capacidade de manutenção aprimorados."
+			},
+			"zh-Hans" : {
+				"name": "SDK for Node.js\u2122",
+				"description": "轻松开发、部署和扩展服务器端的 JavaScript\u00AE 应用程序。IBM SDK for Node.js\u2122 增强了性能、安全性和可维护性。"
+			},
+			"zh-Hant" : {
+				"name": "SDK for Node.js\u2122",
+				"description": "輕鬆地開發、部署及調整伺服器端的 JavaScript\u00AE 應用程式。IBM SDK for Node.js\u2122 提供加強的效能、安全及服務功能。"
+			},
+			"ko": {
+				"name": "SDK for Node.js\u2122",
+				"description": "JavaScript\u00AE 앱을 쉽게 개발하고 배치하며 스케일링합니다. IBM SDK for Node.js\u2122는 강화된 성능, 보안 및 서비스 편의성을 제공합니다. "
+			}
+		}
+	}
+
+}
